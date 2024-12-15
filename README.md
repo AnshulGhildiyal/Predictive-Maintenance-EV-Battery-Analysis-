@@ -16,9 +16,9 @@ Predictive maintenance is critical in extending the lifespan of electric vehicle
 
 ## _Project Workflow_ ##
 1. *Data Engineering & Preprocessing*:
-   1.1. Clean and preprocess the dataset using Python.
-   1.2. Generate engineered features to improve model performance.
-   1.3. Export the processed data to a CSV file for visualization in Power BI.
+   I. Clean and preprocess the dataset using Python.
+   II.  Generate engineered features to improve model performance.
+   III. Export the processed data to a CSV file for visualization in Power BI.
 3. *Model Development*:
    2.1. Implement machine learning models for predictive maintenance.
    2.2. Evaluate model performance using accuracy, precision, and recall metrics.
