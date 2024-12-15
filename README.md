@@ -15,17 +15,17 @@ Predictive maintenance is critical in extending the lifespan of electric vehicle
 4. *Dataset:* AI4I 2020 Predictive Maintenance Dataset (UCI Repository)
 
 ## _Project Workflow_ ##
-1. *Data Engineering & Preprocessing:*
+1. *Data Engineering & Preprocessing*:
    1.1. Clean and preprocess the dataset using Python.
    1.2. Generate engineered features to improve model performance.
    1.3. Export the processed data to a CSV file for visualization in Power BI.
-2. *Model Development:*
+3. *Model Development*:
    2.1. Implement machine learning models for predictive maintenance.
    2.2. Evaluate model performance using accuracy, precision, and recall metrics.
-3. *Visualization & Reporting:*
+5. *Visualization & Reporting*:
    3.1. Create interactive dashboards in Power BI to explore trends and predictions.
    3.2. Incorporate measures and calculated tables for deeper insights.
-4. *Iterative Improvements:*
+6. *Iterative Improvements*:
    4.1. Refine models and dashboards based on feedback and additional data.
 
 ## _Future Scope_ ##
